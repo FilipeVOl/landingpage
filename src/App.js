@@ -6,6 +6,8 @@ import Testimonies from './Components/Testimonies';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 
+/* Utilizando os arquivos importados acima, inicie um servidor local com npm start */
+
 function App() {
   return (
     <div className="App">
