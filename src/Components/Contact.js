@@ -6,7 +6,7 @@ const Contact = () => {
         <h1 className='primary-heading'>Have questions in mind?</h1>
         <h1 className='primary-heading'>Let us help you!</h1>
         <div className='contact-form-container'>
-            <input type='text' placeholder='yourmail@gmail.com' />
+            <input type='email' placeholder='yourmail@gmail.com' />
         </div>
     </div>
   )
